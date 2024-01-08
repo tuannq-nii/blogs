@@ -1,2 +1,0 @@
-# blogs
-My private blogs
