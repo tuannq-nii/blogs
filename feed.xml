@@ -3,10 +3,10 @@
   <channel>
     <title>devlopr</title>
     <description>devlopr-jekyll is a beautiful Jekyll Theme Built For Developers, which is optimized for speed and readability.</description>
-    <link>/</link>
-    <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 08 Apr 2025 12:15:53 +0900</pubDate>
-    <lastBuildDate>Tue, 08 Apr 2025 12:15:53 +0900</lastBuildDate>
+    <link>https://portal.nqtuan0192.me/blogs/</link>
+    <atom:link href="https://portal.nqtuan0192.me/blogs/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 08 Apr 2025 12:17:24 +0900</pubDate>
+    <lastBuildDate>Tue, 08 Apr 2025 12:17:24 +0900</lastBuildDate>
     <generator>Jekyll v4.3.4</generator>
 
     
@@ -49,8 +49,8 @@
 &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;http://localhost:4000/blog/categories/your_category_name&lt;/code&gt;&lt;/p&gt;
 </description>
         <pubDate>Sun, 28 Feb 2021 05:05:23 +0900</pubDate>
-        <link>/blog/adding-categories-tags-in-posts/</link>
-        <guid isPermaLink="true">/blog/adding-categories-tags-in-posts/</guid>
+        <link>https://portal.nqtuan0192.me/blogs/blog/adding-categories-tags-in-posts/</link>
+        <guid isPermaLink="true">https://portal.nqtuan0192.me/blogs/blog/adding-categories-tags-in-posts/</guid>
       </item>
     
       <item>
@@ -183,8 +183,8 @@
 
 </description>
         <pubDate>Sun, 25 Oct 2020 05:05:23 +0900</pubDate>
-        <link>/blog/added-multi-author-support/</link>
-        <guid isPermaLink="true">/blog/added-multi-author-support/</guid>
+        <link>https://portal.nqtuan0192.me/blogs/blog/added-multi-author-support/</link>
+        <guid isPermaLink="true">https://portal.nqtuan0192.me/blogs/blog/added-multi-author-support/</guid>
       </item>
     
       <item>
@@ -216,8 +216,8 @@
 \[k_{n+1} = n^2 + k_n^2 - k_{n-1}\]
 </description>
         <pubDate>Sat, 24 Oct 2020 14:05:23 +0900</pubDate>
-        <link>/blog/added-latex-equations-support/</link>
-        <guid isPermaLink="true">/blog/added-latex-equations-support/</guid>
+        <link>https://portal.nqtuan0192.me/blogs/blog/added-latex-equations-support/</link>
+        <guid isPermaLink="true">https://portal.nqtuan0192.me/blogs/blog/added-latex-equations-support/</guid>
       </item>
     
       <item>
@@ -253,8 +253,8 @@
 &lt;/blockquote&gt;
 </description>
         <pubDate>Sat, 23 May 2020 18:52:20 +0900</pubDate>
-        <link>/blog/using-netlify-cms/</link>
-        <guid isPermaLink="true">/blog/using-netlify-cms/</guid>
+        <link>https://portal.nqtuan0192.me/blogs/blog/using-netlify-cms/</link>
+        <guid isPermaLink="true">https://portal.nqtuan0192.me/blogs/blog/using-netlify-cms/</guid>
       </item>
     
       <item>
@@ -282,8 +282,8 @@
 
 </description>
         <pubDate>Wed, 22 May 2019 18:05:23 +0900</pubDate>
-        <link>/blog/welcome-to-devlopr-jekyll/</link>
-        <guid isPermaLink="true">/blog/welcome-to-devlopr-jekyll/</guid>
+        <link>https://portal.nqtuan0192.me/blogs/blog/welcome-to-devlopr-jekyll/</link>
+        <guid isPermaLink="true">https://portal.nqtuan0192.me/blogs/blog/welcome-to-devlopr-jekyll/</guid>
       </item>
     
 
@@ -305,35 +305,35 @@
   &lt;div class=&quot;category-box&quot;&gt;
     
     &lt;div id=&quot;#jekyll&quot;&gt;&lt;/div&gt;
-    &lt;h4 class=&quot;category-head&quot;&gt;&lt;a href=&quot;/blog/categories/jekyll&quot;&gt;jekyll&lt;/a&gt;&lt;/h4&gt;
+    &lt;h4 class=&quot;category-head&quot;&gt;&lt;a href=&quot;/blogs/blog/categories/jekyll&quot;&gt;jekyll&lt;/a&gt;&lt;/h4&gt;
     &lt;a name=&quot;jekyll&quot;&gt;&lt;/a&gt;
      
     &lt;article class=&quot;center&quot;&gt;
-      &lt;h6&gt;&lt;a href=&quot;/blog/adding-categories-tags-in-posts/&quot;&gt;Adding Multiple Categories in Posts&lt;/a&gt;&lt;/h6&gt;
+      &lt;h6&gt;&lt;a href=&quot;/blogs/blog/adding-categories-tags-in-posts/&quot;&gt;Adding Multiple Categories in Posts&lt;/a&gt;&lt;/h6&gt;
     &lt;/article&gt;
 
 
     
     &lt;article class=&quot;center&quot;&gt;
-      &lt;h6&gt;&lt;a href=&quot;/blog/added-multi-author-support/&quot;&gt;Added Multi Author Support&lt;/a&gt;&lt;/h6&gt;
+      &lt;h6&gt;&lt;a href=&quot;/blogs/blog/added-multi-author-support/&quot;&gt;Added Multi Author Support&lt;/a&gt;&lt;/h6&gt;
     &lt;/article&gt;
 
 
     
     &lt;article class=&quot;center&quot;&gt;
-      &lt;h6&gt;&lt;a href=&quot;/blog/added-latex-equations-support/&quot;&gt;Added Latex Support&lt;/a&gt;&lt;/h6&gt;
+      &lt;h6&gt;&lt;a href=&quot;/blogs/blog/added-latex-equations-support/&quot;&gt;Added Latex Support&lt;/a&gt;&lt;/h6&gt;
     &lt;/article&gt;
 
 
     
     &lt;article class=&quot;center&quot;&gt;
-      &lt;h6&gt;&lt;a href=&quot;/blog/using-netlify-cms/&quot;&gt;Netlify CMS created this Article&lt;/a&gt;&lt;/h6&gt;
+      &lt;h6&gt;&lt;a href=&quot;/blogs/blog/using-netlify-cms/&quot;&gt;Netlify CMS created this Article&lt;/a&gt;&lt;/h6&gt;
     &lt;/article&gt;
 
 
     
     &lt;article class=&quot;center&quot;&gt;
-      &lt;h6&gt;&lt;a href=&quot;/blog/welcome-to-devlopr-jekyll/&quot;&gt;Welcome to devlopr-jekyll !&lt;/a&gt;&lt;/h6&gt;
+      &lt;h6&gt;&lt;a href=&quot;/blogs/blog/welcome-to-devlopr-jekyll/&quot;&gt;Welcome to devlopr-jekyll !&lt;/a&gt;&lt;/h6&gt;
     &lt;/article&gt;
 
 
@@ -344,11 +344,11 @@
   &lt;div class=&quot;category-box&quot;&gt;
     
     &lt;div id=&quot;#guides&quot;&gt;&lt;/div&gt;
-    &lt;h4 class=&quot;category-head&quot;&gt;&lt;a href=&quot;/blog/categories/guides&quot;&gt;guides&lt;/a&gt;&lt;/h4&gt;
+    &lt;h4 class=&quot;category-head&quot;&gt;&lt;a href=&quot;/blogs/blog/categories/guides&quot;&gt;guides&lt;/a&gt;&lt;/h4&gt;
     &lt;a name=&quot;guides&quot;&gt;&lt;/a&gt;
      
     &lt;article class=&quot;center&quot;&gt;
-      &lt;h6&gt;&lt;a href=&quot;/blog/adding-categories-tags-in-posts/&quot;&gt;Adding Multiple Categories in Posts&lt;/a&gt;&lt;/h6&gt;
+      &lt;h6&gt;&lt;a href=&quot;/blogs/blog/adding-categories-tags-in-posts/&quot;&gt;Adding Multiple Categories in Posts&lt;/a&gt;&lt;/h6&gt;
     &lt;/article&gt;
 
 
@@ -359,11 +359,11 @@
   &lt;div class=&quot;category-box&quot;&gt;
     
     &lt;div id=&quot;#sample_category&quot;&gt;&lt;/div&gt;
-    &lt;h4 class=&quot;category-head&quot;&gt;&lt;a href=&quot;/blog/categories/sample_category&quot;&gt;sample_category&lt;/a&gt;&lt;/h4&gt;
+    &lt;h4 class=&quot;category-head&quot;&gt;&lt;a href=&quot;/blogs/blog/categories/sample_category&quot;&gt;sample_category&lt;/a&gt;&lt;/h4&gt;
     &lt;a name=&quot;sample_category&quot;&gt;&lt;/a&gt;
      
     &lt;article class=&quot;center&quot;&gt;
-      &lt;h6&gt;&lt;a href=&quot;/blog/adding-categories-tags-in-posts/&quot;&gt;Adding Multiple Categories in Posts&lt;/a&gt;&lt;/h6&gt;
+      &lt;h6&gt;&lt;a href=&quot;/blogs/blog/adding-categories-tags-in-posts/&quot;&gt;Adding Multiple Categories in Posts&lt;/a&gt;&lt;/h6&gt;
     &lt;/article&gt;
 
 
@@ -374,7 +374,7 @@
 &lt;/div&gt;
 
 </description>
-            <link>/blog/categories/</link>
+            <link>https://portal.nqtuan0192.me/blogs/blog/categories/</link>
           </item>
         
       
@@ -394,7 +394,7 @@
  &lt;li class=&quot;category-posts&quot;&gt;&lt;span&gt;{{ post.date | date_to_string }}&lt;/span&gt; &amp;nbsp; &lt;a href=&quot;{{ post.url }}&quot;&gt;{{ post.title }}&lt;/a&gt;&lt;/li&gt;
 {% endfor %}
 &lt;/div&gt;</description>
-            <link>/blog/categories/guides/</link>
+            <link>https://portal.nqtuan0192.me/blogs/blog/categories/guides/</link>
           </item>
         
       
@@ -579,7 +579,7 @@ Visit your Github Repo settings ! Enable master branch as Github Pages Branch :
 You can visit the blog using [http://your-github-username.github.io](http://your-github-username.github.io).
 
 </description>
-            <link>/get-started/</link>
+            <link>https://portal.nqtuan0192.me/blogs/get-started/</link>
           </item>
         
       
@@ -595,7 +595,7 @@ You can visit the blog using [http://your-github-username.github.io](http://your
  &lt;li class=&quot;category-posts&quot;&gt;&lt;span&gt;{{ post.date | date_to_string }}&lt;/span&gt; &amp;nbsp; &lt;a href=&quot;{{ post.url }}&quot;&gt;{{ post.title }}&lt;/a&gt;&lt;/li&gt;
 {% endfor %}
 &lt;/div&gt;</description>
-            <link>/blog/categories/jekyll/</link>
+            <link>https://portal.nqtuan0192.me/blogs/blog/categories/jekyll/</link>
           </item>
         
       
@@ -615,7 +615,7 @@ You can visit the blog using [http://your-github-username.github.io](http://your
  &lt;li class=&quot;category-posts&quot;&gt;&lt;span&gt;{{ post.date | date_to_string }}&lt;/span&gt; &amp;nbsp; &lt;a href=&quot;{{ post.url }}&quot;&gt;{{ post.title }}&lt;/a&gt;&lt;/li&gt;
 {% endfor %}
 &lt;/div&gt;</description>
-            <link>/blog/categories/sample_category/</link>
+            <link>https://portal.nqtuan0192.me/blogs/blog/categories/sample_category/</link>
           </item>
         
       
@@ -629,7 +629,7 @@ You can visit the blog using [http://your-github-username.github.io](http://your
             <description>Thanks to all the amazing contributors and our Backers for the support.
 
 - [Dirish Mohan](https://dirishmohan.com)</description>
-            <link>/sponsors/</link>
+            <link>https://portal.nqtuan0192.me/blogs/sponsors/</link>
           </item>
         
       
@@ -839,7 +839,7 @@ You can visit the blog using [http://your-github-username.github.io](http://your
 
 
 </description>
-            <link>/styleguide/</link>
+            <link>https://portal.nqtuan0192.me/blogs/styleguide/</link>
           </item>
         
       
